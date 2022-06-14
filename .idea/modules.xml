@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/Algo_trading/.idea/Algo_trading.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/Algo_trading/.idea/Algo_trading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Master_Thesis.iml" filepath="$PROJECT_DIR$/.idea/Master_Thesis.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/UU/vakken/Thesis/code/.idea/code.iml" filepath="$USER_HOME$/Desktop/UU/vakken/Thesis/code/.idea/code.iml" />
+    </modules>
+  </component>
+</project>
